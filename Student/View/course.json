@@ -1,0 +1,82 @@
+[
+    {
+        "course_id": "1",
+        "course_name": "Introduction to SQL",
+        "course_teacher": "John Doe",
+        "course_description": "Learn the basics of Structured Query Language (SQL) for managing and querying relational databases. Understand fundamental database concepts, such as tables, relationships, and normalization. Acquire skills in writing SQL queries to retrieve and manipulate data.",
+        "course_publishingDate": "2023-01-01",
+        "course_price": "49.99"
+    },
+    {
+        "course_id": "2",
+        "course_name": "Web Development Fundamentals",
+        "course_teacher": "Jane Smith",
+        "course_description": "Dive into web development fundamentals, covering HTML, CSS, and JavaScript. Learn to create responsive and interactive websites. Gain an understanding of web development tools, frameworks, and best practices.",
+        "course_publishingDate": "2023-02-15",
+        "course_price": "69.99"
+    },
+    {
+        "course_id": "3",
+        "course_name": "Data Science Essentials",
+        "course_teacher": "Alex Johnson",
+        "course_description": "Explore core data science concepts, including analysis, visualization, and interpretation. Learn to extract meaningful insights using statistical methods and machine learning algorithms. Develop skills in data cleaning, preprocessing, and exploratory data analysis.",
+        "course_publishingDate": "2023-03-10",
+        "course_price": "89.99"
+    },
+    {
+        "course_id": "4",
+        "course_name": "Mobile App Development",
+        "course_teacher": "Emily Brown",
+        "course_description": "Learn the basics of mobile app development for Android and iOS. Understand the app development lifecycle, user interface design, and app deployment. Gain hands-on experience building simple mobile applications.",
+        "course_publishingDate": "2023-04-20",
+        "course_price": "79.99"
+    },
+    {
+        "course_id": "5",
+        "course_name": "Machine Learning Basics",
+        "course_teacher": "Michael Lee",
+        "course_description": "Get an introduction to machine learning foundations. Cover key concepts such as supervised and unsupervised learning, algorithms, and model evaluation. Gain practical experience implementing machine learning models.",
+        "course_publishingDate": "2023-05-05",
+        "course_price": "99.99"
+    },
+    {
+        "course_id": "6",
+        "course_name": "Cybersecurity Fundamentals",
+        "course_teacher": "Sophia Rodriguez",
+        "course_description": "Understand the basics of cybersecurity, including threat detection, risk assessment, and security protocols. Explore common cyber threats and learn strategies to safeguard personal and organizational information.",
+        "course_publishingDate": "2023-06-18",
+        "course_price": "59.99"
+    },
+    {
+        "course_id": "7",
+        "course_name": "Graphic Design Principles",
+        "course_teacher": "Daniel Kim",
+        "course_description": "Explore graphic design principles, including layout, color theory, typography, and visual hierarchy. Acquire practical design skills using software to create engaging graphics for print and digital media.",
+        "course_publishingDate": "2023-07-03",
+        "course_price": "49.99"
+    },
+    {
+        "course_id": "8",
+        "course_name": "Python Programming for Beginners",
+        "course_teacher": "Ava Chen",
+        "course_description": "An introductory course for aspiring programmers. Learn Python fundamentals, including variables, loops, functions, and data structures. Gain hands-on experience through coding exercises and projects.",
+        "course_publishingDate": "2023-08-12",
+        "course_price": "69.99"
+    },
+    {
+        "course_id": "9",
+        "course_name": "Financial Planning 101",
+        "course_teacher": "William Turner",
+        "course_description": "Delve into the fundamentals of personal financial planning. Cover budgeting, saving, investing, and debt management. Create a solid financial plan aligned with your goals, and understand wealth building and risk management principles.",
+        "course_publishingDate": "2023-09-25",
+        "course_price": "79.99"
+    },
+    {
+        "course_id": "10",
+        "course_name": "Artificial Intelligence Applications",
+        "course_teacher": "Olivia Garcia",
+        "course_description": "Explore the wide-ranging applications of Artificial Intelligence (AI) across industries. Learn about machine learning, natural language processing, computer vision, and robotics. Gain insights into practical implementation strategies.",
+        "course_publishingDate": "2023-10-10",
+        "course_price": "89.99"
+    }
+]

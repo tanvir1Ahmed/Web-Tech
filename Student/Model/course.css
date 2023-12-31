@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.price {
+    margin-top: 0px;
+    margin-left: 1180px;
+}
+
+.course_box {
+    margin-top: 70px;
+    margin-left: 20px;
+    padding: 10px;
+    background: linear-gradient(rgba(148, 130, 118, 0.5), rgb(148, 130, 118, 0.5)), url('../View/Image/d.jpg');
+    width: 90%;
+    height: 300px;
+    border-radius: 20px;
+    border: 5px solid black;
+    color: black;
+    background-size: cover;
+    background-position: center;
+}
+
+.course_box:hover {
+    overflow-y: scroll;
+    background: linear-gradient(rgba(1, 1, 1, 1), rgb(1, 1, 1, 1)), url('../View/Image/d.jpg');
+    color: white;
+
+}
+
+.course_box::-webkit-scrollbar {
+    width: 12px;
+}
+
+.course_box::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 6px;
+}
+
+.course_box::-webkit-scrollbar-track {
+    background-color: #eee;
+    border-radius: 8px;
+}
+
+.containerCourse {
+    overflow-y: scroll;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.4)), url("../View/Image/education1.jpg");
+    background-position: center;
+    background-size: cover;
+    position: fixed;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-family: "Trirong", serif;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+.title:hover {
+    text-shadow: 3px 3px red;
+}
+
+.teacher {
+    margin-top: -42px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.buy {
+    background: #f4d8c0;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 1150px;
+    height: 30px;
+}
+
+.buy:hover {
+    color: white;
+    background-color: brown;
+}
